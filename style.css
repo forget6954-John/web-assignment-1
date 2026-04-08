@@ -72,3 +72,17 @@ button:hover {
     background: #2980b9;
     transform: translateY(-2px);
 }
+
+/* 과제 1 조건 적용 */
+.task-title {
+    font-size: 36px;     /* 제목 글자 크기 크게 */
+    text-align: center;  /* 제목 가운데 정렬 */
+}
+
+.task-text {
+    font-size: 18px;     /* 문단 글자 크기 */
+}
+
+.bold-text {
+    font-weight: bold;   /* 문단 중 한 문장 굵게 */
+}
