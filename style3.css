@@ -1,0 +1,13 @@
+.click-box {
+    width: 120px;
+    height: 50px;
+    background-color: orange;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 10px;
+}
+
+.click-box a {
+    color: white;
+    text-decoration: none;
+}
